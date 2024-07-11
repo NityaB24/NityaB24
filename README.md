@@ -113,10 +113,7 @@
 
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=NityaB24&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
- </div>
- <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=NityaB24&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits">
+<img src="https://github-profile-trophy.vercel.app/?username=NityaB24&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers,MultiLanguage,Commits">
  </div>
  <br><br>
 
